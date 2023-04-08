@@ -1,7 +1,7 @@
 # Carry-and-Run
 My clone game 
 
-Game video is here
+The video of the game is here.
 {
  https://www.youtube.com/watch?v=mNpK1TML82Y
 
